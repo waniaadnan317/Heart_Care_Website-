@@ -55,6 +55,8 @@ The main goal of this project is to spread heart health awareness and make heart
 | CSV | Medical dataset storage |
 | AI / Machine Learning | Chatbot and heart disease prediction |
 
+## Website Preview 
+
 
 ## Project Components
 
@@ -124,6 +126,4 @@ This website is developed for educational and informational purposes. The chatbo
 
 **Main Focus:** Heart Disease Awareness, Medical Chatbot and Heart Disease Prediction
 
----
 
-❤️ **Heart Care – Making Heart Health Information More Accessible Through AI.**
