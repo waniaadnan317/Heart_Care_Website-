@@ -1,4 +1,4 @@
-#  Heart Care Website ( AI Based Heart Care System )
+<img width="1598" height="774" alt="1st interface" src="https://github.com/user-attachments/assets/2a528620-634d-4826-8909-7bc5c7109fb8" />#  Heart Care Website ( AI Based Heart Care System )
 
 ## Project Overview
 
@@ -56,7 +56,8 @@ The main goal of this project is to spread heart health awareness and make heart
 | AI / Machine Learning | Chatbot and heart disease prediction |
 
 ## Website Preview 
-![Uploading 1st interface.PNG…]()
+[Uploading 1st interface.PNG…]()
+
 
 
 ## Project Components
