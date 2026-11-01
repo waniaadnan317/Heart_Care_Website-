@@ -1,3 +1,4 @@
+#  Heart Care Website ( AI Based Heart Care System )
 ## Project Overview
 
 Heart Care Website is an AI-based healthcare web application designed to provide heart-related medical information, assist users in understanding heart diseases, and help identify the possibility of heart disease through a prediction system.
@@ -54,7 +55,7 @@ The main goal of this project is to spread heart health awareness and make heart
 | AI / Machine Learning | Chatbot and heart disease prediction |
 
 ## Website Preview 
-<img width="1598" height="774" alt="1st interface" src="https://github.com/user-attachments/assets/2a528620-634d-4826-8909-7bc5c7109fb8" />#  Heart Care Website ( AI Based Heart Care System )
+<img width="1598" height="774" alt="1st interface" src="https://github.com/user-attachments/assets/2a528620-634d-4826-8909-7bc5c7109fb8" />
 C:\Users\SM Computer\Downloads
 C:\Users\SM Computer\Downloads
 C:\Users\SM Computer\Downloads
