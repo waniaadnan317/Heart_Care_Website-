@@ -1,6 +1,6 @@
-# ❤️ Heart Care Website – AI Based Heart Care System
+#  Heart Care Website ❤️– AI Based Heart Care System
 
-## 📌 Project Overview
+## Project Overview
 
 Heart Care Website is an AI-based healthcare web application designed to provide heart-related medical information, assist users in understanding heart diseases, and help identify the possibility of heart disease through a prediction system.
 
@@ -8,7 +8,7 @@ The website includes an AI-powered medical chatbot, a heart disease prediction s
 
 The main goal of this project is to spread heart health awareness and make heart-related medical information easily accessible to users.
 
-## ✨ Features
+## Features
 
 ### 1. AI-Powered Medical Chatbot
 - Answers users' questions about heart-related diseases.
@@ -46,7 +46,7 @@ The main goal of this project is to spread heart health awareness and make heart
 - Stores relevant application data.
 - Database file: `hospital.db`.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -54,9 +54,9 @@ The main goal of this project is to spread heart health awareness and make heart
 | SQLite | Database management |
 | CSV | Medical dataset storage |
 | AI / Machine Learning | Chatbot and heart disease prediction |
-| HTML, CSS, JavaScript | Website interface (where implemented) |
 
-## 📂 Project Components
+
+## Project Components
 
 - Main Python application
 - Heart-related medical dataset
@@ -65,7 +65,7 @@ The main goal of this project is to spread heart health awareness and make heart
 - SQLite database
 - Website interface
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 ### Step 1: Clone the Repository
 
@@ -93,7 +93,7 @@ pip install -r requirements.txt
 python "heart Care Website.py"
 ```
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - To develop an AI-based healthcare website.
 - To provide heart-related medical information.
@@ -102,7 +102,7 @@ python "heart Care Website.py"
 - To develop a heart disease prediction system.
 - To promote heart health awareness.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Improve chatbot response accuracy.
 - Expand the heart-related medical dataset.
@@ -110,11 +110,11 @@ python "heart Care Website.py"
 - Improve website design and user experience.
 - Add more healthcare-related functionalities.
 
-## ⚠️ Medical Disclaimer
+## Medical Disclaimer
 
 This website is developed for educational and informational purposes. The chatbot and prediction system are not substitutes for professional medical advice, diagnosis, or treatment. Users should consult qualified healthcare professionals for medical concerns.
 
-## 👩‍💻 Project Information
+## Project Information
 
 **Project Name:** Heart Care Website
 
