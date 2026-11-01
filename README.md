@@ -56,12 +56,12 @@ The main goal of this project is to spread heart health awareness and make heart
 
 ## Website Preview 
 <img width="1598" height="774" alt="1st interface" src="https://github.com/user-attachments/assets/2a528620-634d-4826-8909-7bc5c7109fb8" />
-C:\Users\SM Computer\Downloads
-C:\Users\SM Computer\Downloads
-C:\Users\SM Computer\Downloads
-C:\Users\SM Computer\Downloads
+<img width="1577" height="773" alt="2nd" src="https://github.com/user-attachments/assets/e1e554d7-3965-4830-9545-2a49b3fa918c" />
+<img width="1579" height="772" alt="3rd" src="https://github.com/user-attachments/assets/2d86fa80-ca70-46dc-b23a-2ed080dff44b" />
+<img width="1573" height="775" alt="4th" src="https://github.com/user-attachments/assets/33010018-1070-4f1e-bf0f-f2986bcc0819" />
+<img width="1582" height="774" alt="5th" src="https://github.com/user-attachments/assets/8b52692b-c869-427b-a424-b3e25ee951d6" />
 <img width="1585" height="779" alt="6th" src="https://github.com/user-attachments/assets/db174035-c5e6-4b3d-89c0-eff8baf84363" />
-C:\Users\SM Computer\Downloads
+<img width="1590" height="769" alt="7th" src="https://github.com/user-attachments/assets/29eb6a3b-fa5f-4b42-9f7e-b74244e765eb" />
 
 ## Project Components
 
