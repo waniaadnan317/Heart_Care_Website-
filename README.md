@@ -1,4 +1,4 @@
-#  Heart Care Website ❤️– AI Based Heart Care System
+#  Heart Care Website ( AI Based Heart Care System )
 
 ## Project Overview
 
@@ -56,6 +56,7 @@ The main goal of this project is to spread heart health awareness and make heart
 | AI / Machine Learning | Chatbot and heart disease prediction |
 
 ## Website Preview 
+![Uploading 1st interface.PNG…]()
 
 
 ## Project Components
